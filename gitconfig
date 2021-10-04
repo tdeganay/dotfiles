@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = t.deganay@gmail.com
+	name = Thibault de Ganay
